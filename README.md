@@ -1,6 +1,7 @@
+## Objetivo
+Fazer uma auto-análise usando código Delphi para exibir as propriedades, seus tipos, valores e visibilidade.
 
-
-### Saída
+### Saída do código fonte
 ```
 Id: private, Valor = 2: integer
 Usuario: public, Valor = Maria Josefina: string
